@@ -51,7 +51,7 @@ We had to classify consumer complaints into four categories:
 
   **Confusion Matrix for SGDC CLassifier**
 
-  ![confusion matrix for sgdc classf]()
+  ![confusion matrix for sgdc classf](https://github.com/Mathivathani-G/kaiburr-task5-Data-Science/blob/main/Confusion%20matrix%20SGDC%20Classifier.png)
 
 ### 4. Model Evaluation  
 - **Logistic Regression** performed best:  
