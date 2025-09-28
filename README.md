@@ -47,7 +47,7 @@ We had to classify consumer complaints into four categories:
 
   **SGDC Classifier**
 
-  ![SGDC Classifier]()
+  ![SGDC Classifier](https://github.com/Mathivathani-G/kaiburr-task5-Data-Science/blob/main/SGDC%20Classifier.png)
 
   **Confusion Matrix for SGDC CLassifier**
 
