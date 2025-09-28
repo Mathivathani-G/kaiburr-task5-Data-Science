@@ -43,7 +43,7 @@ We had to classify consumer complaints into four categories:
 
   **Confusion Matrix for Logistic Regression**
 
-  ![Confusion matrix log reg]()
+  ![Confusion matrix log reg](https://github.com/Mathivathani-G/kaiburr-task5-Data-Science/blob/main/Confusion%20matrix%20Logistic%20Regression.png)
 
   **SGDC Classifier**
 
