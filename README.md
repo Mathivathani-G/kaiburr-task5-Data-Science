@@ -32,7 +32,26 @@ We had to classify consumer complaints into four categories:
 - **Train/Test split**: 80/20 → 16,000 train / 4,000 test.  
 - Models implemented:  
   - Logistic Regression (`saga`, balanced classes)  
-  - SGDClassifier (`log_loss`, online learning style)  
+  - SGDClassifier (`log_loss`, online learning style)
+
+
+  **Logistic Regression**
+
+
+  ![Logistic Regression](https://github.com/Mathivathani-G/kaiburr-task5-Data-Science/blob/main/Logistic%20Regression.png)
+
+
+  **Confusion Matrix for Logistic Regression**
+
+  ![Confusion matrix log reg]()
+
+  **SGDC Classifier**
+
+  ![SGDC Classifier]()
+
+  **Confusion Matrix for SGDC CLassifier**
+
+  ![confusion matrix for sgdc classf]()
 
 ### 4. Model Evaluation  
 - **Logistic Regression** performed best:  
